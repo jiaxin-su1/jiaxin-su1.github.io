@@ -1,10 +1,9 @@
-# jiaxin-su1.github.io
 # Data Scientist
 Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 ### Education
-Ph.D., Physics | The University of Texas at Dallas (May 2022)
-M.S., Physics | The University of Texas at Dallas (December 2019)
-B.S., Physics | The University of Texas at Dallas (May 2017)
+M.S., Health Data Science | University of California, San Francisco (June 2027 expected)
+B.S.,  Statistics and Data Science | University of California, Santa Barbara (June 2025)
+B.S., Psychology and Brain Science | University of California, Santa Barbara (June 2025)
 ### Work Experience
 Data Scientist @ Toyota Financial Services (June 2022 - Present)
 
@@ -15,3 +14,5 @@ Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
 Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 Projects
+
+### Projects
