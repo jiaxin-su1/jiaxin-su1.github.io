@@ -1,5 +1,7 @@
 # Data Scientist
+
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
 ### Education
 - M.S., Health Data Science | University of California, San Francisco (_June 2027 expected_)
 - B.S.,  Statistics and Data Science | University of California, Santa Barbara (_June 2025_)
