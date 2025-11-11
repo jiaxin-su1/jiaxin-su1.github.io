@@ -17,10 +17,18 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-**Course Recommendation Engine using BM25 and NLP
+**Course Recommendation Engine using BM25 and NLP**
 - Developed a course recommendation engine using NLP preprocessing techniques and BM25 similarity to match UCSB 
 course descriptions with student interest, major, and other student profiles, enabling personalized top-5 course suggestions.
 - Automated course data collection from the UCSB Academic Curriculum API and built NLP pipelines in Pandas using 
 rank_bm25 to compute BM25 similarity scores.
 - Empowered students to find interest-aligned courses 3× faster via personalized similarity search and saved department 
 advisors dozens of hours each term by automating repetitive recommendations.
+
+**SPROUT: Plant Disease Detection & Care Assistant**
+-  Designed and developed SPROUT, a responsive plant health web platform supporting image uploads, plant disease 
+diagnosis, user authentication, and chatbot interaction, capable of identifying 38 plant diseases across multiple crops.
+- Built a backend database using SQLite and Flask-Login to manage user account id, uploaded plant pictures, and plant 
+diagnostic history with access control, ensuring a seamless user experience across desktop and mobile devices.
+- Achieved 2nd place out of 20+ teams by optimizing diagnostic processes to provide rapid disease predictions and care 
+guidance within 10 seconds, improving real-time usability.
