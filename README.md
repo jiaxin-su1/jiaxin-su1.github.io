@@ -18,9 +18,9 @@
 
 ## Projects
 **Course Recommendation Engine using BM25 and NLP
-* Developed a course recommendation engine using NLP preprocessing techniques and BM25 similarity to match UCSB 
+- Developed a course recommendation engine using NLP preprocessing techniques and BM25 similarity to match UCSB 
 course descriptions with student interest, major, and other student profiles, enabling personalized top-5 course suggestions.
-* Automated course data collection from the UCSB Academic Curriculum API and built NLP pipelines in Pandas using 
+- Automated course data collection from the UCSB Academic Curriculum API and built NLP pipelines in Pandas using 
 rank_bm25 to compute BM25 similarity scores.
-* Empowered students to find interest-aligned courses 3× faster via personalized similarity search and saved department 
+- Empowered students to find interest-aligned courses 3× faster via personalized similarity search and saved department 
 advisors dozens of hours each term by automating repetitive recommendations.
