@@ -8,7 +8,7 @@
 - B.S., Psychology and Brain Science | University of California, Santa Barbara (_June 2025_)
 
 ## Work Experience
-**Lab Manager @ Bionic Vision Lab, UCSB (_September 2024 - June 2925_)**
+**Lab Manager @ Bionic Vision Lab, UCSB (_September 2024 - June 2025_)**
 - Organized personally identifiable information (PII) data in human subject experiments in Google Sheets and assisted with 
 recruiting and scheduling participants for virtual reality (VR) experiments.
 - Conduct and manage VR experiments with over 20 participants to examine how minimap, compass, and direction arrow help people
@@ -22,7 +22,9 @@ recruiting and scheduling participants for virtual reality (VR) experiments.
 - Planned and guided 10 undergraduate students in developing their future course schedules to align with their academic
   interests and career goals.
 - Initiated multiple students’ in-group discussions on course materials during office hours.
+
 ## Projects
+
 **Course Recommendation Engine using BM25 and NLP**
 - Developed a course recommendation engine using NLP preprocessing techniques and BM25 similarity to match UCSB 
 course descriptions with student interest, major, and other student profiles, enabling personalized top-5 course suggestions.
