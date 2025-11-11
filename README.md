@@ -9,12 +9,18 @@
 
 ## Work Experience
 **Lab Manager @ Bionic Vision Lab, UCSB (_September 2024 - June 2925_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
+- Organized personally identifiable information (PII) data in human subject experiments in Google Sheets and assisted with 
+recruiting and scheduling participants for virtual reality (VR) experiments.
+- Conduct and manage VR experiments with over 20 participants to examine how minimap, compass, and direction arrow help people
+  navigate under stressful conditions.
+- Interviewed and onboarded new research assistants, ensuring compliance with human subject training and safety protocols and
+  furthered human subject data collection instructions to ensure comprehensive experiment data collection.
+  
 **Undergraduate Learning Assistant @ UCSB PSTAT Department (_September 2024 - December 2024_)**
-- Held office hours for 9 hours every week, guiding students in solving homework questions and enhancing students' understanding of course material.
-- Planned and guided 10 undergraduate students in developing their future course schedules to align with their academic interests and career goals.
+- Held office hours for 9 hours every week, guiding students in solving homework questions and enhancing students' understanding
+  of course material.
+- Planned and guided 10 undergraduate students in developing their future course schedules to align with their academic
+  interests and career goals.
 - Initiated multiple students’ in-group discussions on course materials during office hours.
 ## Projects
 **Course Recommendation Engine using BM25 and NLP**
