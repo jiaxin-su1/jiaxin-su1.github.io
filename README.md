@@ -8,14 +8,14 @@
 - B.S., Psychology and Brain Science | University of California, Santa Barbara (_June 2025_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Lab Manager @ Bionic Vision Lab, UCSB (_September 2024 - June 2925_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
+**Undergraduate Learning Assistant @ UCSB PSTAT Department (_September 2024 - December 2024_)**
+- Held office hours for 9 hours every week, guiding students in solving homework questions and enhancing students' understanding of course material.
+- Planned and guided 10 undergraduate students in developing their future course schedules to align with their academic interests and career goals.
+- Initiated multiple students’ in-group discussions on course materials during office hours.
 ## Projects
 **Course Recommendation Engine using BM25 and NLP**
 - Developed a course recommendation engine using NLP preprocessing techniques and BM25 similarity to match UCSB 
@@ -32,3 +32,19 @@ diagnosis, user authentication, and chatbot interaction, capable of identifying 
 diagnostic history with access control, ensuring a seamless user experience across desktop and mobile devices.
 - Achieved 2nd place out of 20+ teams by optimizing diagnostic processes to provide rapid disease predictions and care 
 guidance within 10 seconds, improving real-time usability.
+
+**Predicting the temporal dynamics of prosthetic vision**
+- Coauthored a conference paper titled “Predicting the temporal dynamics of prosthetic vision,” published a peer-reviewed 
+conference paper in IEEE Engineering in Medicine and Biology Society (IEEE EMBC).
+- Extracted data points from a previously published paper by other research groups with WebPlotDigitizer and ensured data 
+integrity using Google Colab with NumPy and Matplotlib library.
+- Developed a step-wise temporal model with exponential and sine decay functions (r = 0.7 across all data) to predict artificial 
+vision fading and persistence under varying stimulus conditions, linking electrical stimulation directly to perception.
+
+**Using Machine Learning to Predict Dementia**
+- Incorporated risk gene APOE_e4, personal life habits, cognitive performance, and seventeen other factors into dementia 
+diagnostic machine learning models using R package Tidymodels.
+- Performed exploratory data analysis (EDA) using ggplot2 to identify variable relationships and built multivariate ML models 
+(KNN, decision tree, elastic net, logistic regression) to predict dementia status for 1,000 participants.
+- Produced a mean AUC of 0.96 through 5-fold cross-validation, demonstrating strong predictive performance for dementia 
+classification models integrating genetic and lifestyle factors.
