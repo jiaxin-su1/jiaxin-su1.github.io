@@ -32,7 +32,7 @@ course descriptions with student interest, major, and other student profiles, en
 rank_bm25 to compute BM25 similarity scores.
 - Empowered students to find interest-aligned courses 3× faster via personalized similarity search and saved department 
 advisors dozens of hours each term by automating repetitive recommendations.
-* [GitHub](https://github.com/jiaxin-su1/Course-Recommendation-.git)
+- [GitHub](https://github.com/jiaxin-su1/Course-Recommendation-.git)
 
 **SPROUT: Plant Disease Detection & Care Assistant**
 -  Designed and developed SPROUT, a responsive plant health web platform supporting image uploads, plant disease 
